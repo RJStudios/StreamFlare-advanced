@@ -2,6 +2,7 @@
 The old StreamFlare, with more support.
 
 Supported platforms:
+<li>
 Video & Audio Platforms
 YouTube
 YouTube Music
@@ -30,3 +31,4 @@ C-SPAN
 PBS
 Al Jazeera
 PBS Kids
+</li>
